@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+
+Just trying to learn this garsh darn sumnabitch!
